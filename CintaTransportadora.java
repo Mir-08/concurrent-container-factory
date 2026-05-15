@@ -6,7 +6,7 @@ import java.util.concurrent.Semaphore;
  * Representa una cinta transportadora que actúa como buffer compartido entre productores y empaquetadores.
  * Coordina el flujo de envases mediante semáforos para controlar la capacidad máxima y evitar condiciones de carrera.
  *
- * @author TuNombre
+ * @author Miracle Owen
  * @version 1.0
  */
 
