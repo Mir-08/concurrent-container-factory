@@ -5,7 +5,7 @@ package PROYECTO_1EV;
  * Cada productor funciona como un hilo independiente que trabaja de forma concurrente
  * con otros productores y coordina con los empaquetadores.
  *
- * @author TuNombre
+ * @author Miracle Owen
  * @version 1.0
  */
 public class Productor implements Runnable {
