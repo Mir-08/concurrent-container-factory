@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  * Coordina la adición de envases por parte de los empaquetadores y la retirada por parte del transportador.
  * Utiliza wait/notify para la sincronización entre hilos.
  *
- * @author TuNombre
+ * @author Miracle Owen
  * @version 1.0
  */
 public class Caja {
