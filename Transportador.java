@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
  * Espera hasta que una caja esté completamente llena (5 envases) para transportarla.
  * Cada transportador funciona como un hilo independiente que coordina con los empaquetadores.
  *
- * @author TuNombre
+ * @author Miracle Owen
  * @version 1.0
  */
 public class Transportador implements Runnable {
