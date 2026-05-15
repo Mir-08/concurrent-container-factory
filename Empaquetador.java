@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
  * y los coloca en cajas. Cada empaquetador funciona como un hilo independiente
  * que coordina con productores y transportadores.
  *
- * @author TuNombre
+ * @author Miracle Owen
  * @version 1.0
  */
 
